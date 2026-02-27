@@ -1,0 +1,1 @@
+from kit.modules.raid_dens.cli import app  # re-export for convenience
